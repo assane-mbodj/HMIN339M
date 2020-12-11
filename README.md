@@ -1,0 +1,2 @@
+# HMIN339M
+L'objectif de ce projet est d'effectuer une tâche de classification de l'occupation du sol dans le département de la Dordogne (région Nouvelle-Aquitaine). Pour ce faire, nous devons entraîner puis employer un modèle d'apprentissage profond afin de prédire diverses classes d'occupation du sol parmi lesquelles se trouvent des zones urbaines, de l'eau, de la forêt, des landes et des cultures.
