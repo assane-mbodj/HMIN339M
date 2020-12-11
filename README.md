@@ -1,2 +1,4 @@
 # HMIN339M
 L'objectif de ce projet est d'effectuer une tâche de classification de l'occupation du sol dans le département de la Dordogne (région Nouvelle-Aquitaine). Pour ce faire, nous devons entraîner puis employer un modèle d'apprentissage profond afin de prédire diverses classes d'occupation du sol parmi lesquelles se trouvent des zones urbaines, de l'eau, de la forêt, des landes et des cultures.
+
+Pour executer le code il faut extraire le dossier contenant le code source et le fichier test appelé Test_ID_Label.csv ensuite importer le dossier sur votre google Drive. Ensuite ouvrir le fichier  projetHMIN339M.ipynb sur google coolab. L'utilisateur aura besoin d'un code source qu'il va récupérer via son compte google en executant la première cellule afin de pouvoir effectuer la classification des modèles présenter dans ce projet.
